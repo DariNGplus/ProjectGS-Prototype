@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &1318797011053088351
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 303958974032284821, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: <MaxHealth>k__BackingField
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 303958974032284821, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: <CollisionDamage>k__BackingField
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 303958974032284821, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: <BaseMovementSpeed>k__BackingField
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 3264717965438050686, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.01
+      objectReference: {fileID: 0}
+    - target: {fileID: 3264717965438050686, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.08
+      objectReference: {fileID: 0}
+    - target: {fileID: 4750579664113535018, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 2bac58cd0a4c7f94d8f3a3bf9988600d, type: 3}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.53
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.044943135
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5588480705167721045, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6065742455665472829, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_BodyType
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6065742455665472829, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_Constraints
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 6065742455665472829, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_Interpolate
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6065742455665472829, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6918914638682272709, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 6b03fcf4fce250c499f32372ff7393d2, type: 3}
+    - target: {fileID: 7506507676789206121, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}
+      propertyPath: m_Name
+      value: EnemySlimeElite
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e9ddad61d3e659e4a9128dc508f7bdbc, type: 3}

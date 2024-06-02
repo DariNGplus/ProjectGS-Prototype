@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b70c1262456a11e44842b5d0bfab860c, type: 3}
+  m_Name: Grapes
+  m_EditorClassIdentifier: 
+  Name: Uvas
+  Description: "Aumenta un poco la velocidad de disparo y el da\xF1o de las balas."
+  Sprite: {fileID: 1493876006, guid: f0dd32f6656125642979b7c8c035d52a, type: 3}
+  PowerupEffects:
+  - {fileID: 11400000, guid: f45e8f17f87c2ba43a0f3602b2baaede, type: 2}
+  - {fileID: 11400000, guid: 4f39b069ca2313a439ba0ff3832de044, type: 2}
